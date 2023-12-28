@@ -105,3 +105,4 @@ If you want to learn more, follow these links: [Bulma homepage](http://bulma.io)
 
 Code copyright 2017 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma-start/blob/master/LICENSE).
 # personal_site_v1
+# personal_site_v1
