@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+// Customization
+
+// You can easily customize Bulma with your own variables.
+// Just uncomment the following block to see the result.
+
+// 1. Import the initial variables
+@import "../node_modules/bulma/sass/utilities/initial-variables";
+
+$turqoise: rgb(163, 255, 246);
+$magenta: rgb(254, 125, 254);
+
+$primary: $turqoise;
+$danger: $magenta;
+
+
+@import "../node_modules/bulma/bulma";
+@import "../node_modules/@creativebulma/bulma-divider/dist/bulma-divider.css"
+
